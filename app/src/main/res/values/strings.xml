@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">myGraphMyRules</string>
+    <string name="approve">Подтвердить</string>
+    <string name="back">Назад</string>
+    <string-array name="ticket_1">
+        <item>Вопрос такой-то 1</item>
+        <item>Вопрос такой-то 2</item>
+        <item>Вопрос такой-то 3</item>
+        <item>Вопрос такой-то 4</item>
+        <item>Вопрос такой-то 5</item>
+        <item>Вопрос такой-то 6</item>
+        <item>Вопрос такой-то 7</item>
+        <item>Вопрос такой-то 8</item>
+        <item>Вопрос такой-то 9</item>
+        <item>Вопрос такой-то 10</item>
+        <item>Вопрос такой-то 11</item>
+        <item>Вопрос такой-то 12</item>
+        <item>Вопрос такой-то 13</item>
+        <item>Вопрос такой-то 14</item>
+        <item>Вопрос такой-то 15</item>
+        <item>Вопрос такой-то 16</item>
+        <item>Вопрос такой-то 17</item>
+        <item>Вопрос такой-то 18</item>
+        <item>Вопрос такой-то 19</item>
+        <item>Вопрос такой-то 20</item>
+    </string-array>
+    <string-array name="ticket_2">
+        <item>Вопрос такой-то 1 билета 2</item>
+        <item>Вопрос такой-то 2</item>
+        <item>Вопрос такой-то 3</item>
+        <item>Вопрос такой-то 4</item>
+        <item>Вопрос такой-то 5</item>
+        <item>Вопрос такой-то 6</item>
+        <item>Вопрос такой-то 7</item>
+        <item>Вопрос такой-то 8</item>
+        <item>Вопрос такой-то 9</item>
+        <item>Вопрос такой-то 10</item>
+        <item>Вопрос такой-то 11</item>
+        <item>Вопрос такой-то 12</item>
+        <item>Вопрос такой-то 13</item>
+        <item>Вопрос такой-то 14</item>
+        <item>Вопрос такой-то 15</item>
+        <item>Вопрос такой-то 16</item>
+        <item>Вопрос такой-то 17</item>
+        <item>Вопрос такой-то 18</item>
+        <item>Вопрос такой-то 19</item>
+        <item>Вопрос такой-то 20</item>
+    </string-array>
+    <string-array name="ticket_3">
+        <item>Вопрос такой-то 1 билета 3</item>
+        <item>Вопрос такой-то 2</item>
+        <item>Вопрос такой-то 3</item>
+        <item>Вопрос такой-то 4</item>
+        <item>Вопрос такой-то 5</item>
+        <item>Вопрос такой-то 6</item>
+        <item>Вопрос такой-то 7</item>
+        <item>Вопрос такой-то 8</item>
+        <item>Вопрос такой-то 9</item>
+        <item>Вопрос такой-то 10</item>
+        <item>Вопрос такой-то 11</item>
+        <item>Вопрос такой-то 12</item>
+        <item>Вопрос такой-то 13</item>
+        <item>Вопрос такой-то 14</item>
+        <item>Вопрос такой-то 15</item>
+        <item>Вопрос такой-то 16</item>
+        <item>Вопрос такой-то 17</item>
+        <item>Вопрос такой-то 18</item>
+        <item>Вопрос такой-то 19</item>
+        <item>Вопрос такой-то 20</item>
+    </string-array>
+    <string-array name="ticket_4">
+        <item>Вопрос такой-то 1</item>
+        <item>Вопрос такой-то 2</item>
+        <item>Вопрос такой-то 3</item>
+        <item>Вопрос такой-то 4</item>
+        <item>Вопрос такой-то 5</item>
+        <item>Вопрос такой-то 6</item>
+        <item>Вопрос такой-то 7</item>
+        <item>Вопрос такой-то 8</item>
+        <item>Вопрос такой-то 9</item>
+        <item>Вопрос такой-то 10</item>
+        <item>Вопрос такой-то 11</item>
+        <item>Вопрос такой-то 12</item>
+        <item>Вопрос такой-то 13</item>
+        <item>Вопрос такой-то 14</item>
+        <item>Вопрос такой-то 15</item>
+        <item>Вопрос такой-то 16</item>
+        <item>Вопрос такой-то 17</item>
+        <item>Вопрос такой-то 18</item>
+        <item>Вопрос такой-то 19</item>
+        <item>Вопрос такой-то 20</item>
+    </string-array>
+    <string-array name="ticket_5">
+        <item>Вопрос такой-то 1</item>
+        <item>Вопрос такой-то 2</item>
+        <item>Вопрос такой-то 3</item>
+        <item>Вопрос такой-то 4</item>
+        <item>Вопрос такой-то 5</item>
+        <item>Вопрос такой-то 6</item>
+        <item>Вопрос такой-то 7</item>
+        <item>Вопрос такой-то 8</item>
+        <item>Вопрос такой-то 9</item>
+        <item>Вопрос такой-то 10</item>
+        <item>Вопрос такой-то 11</item>
+        <item>Вопрос такой-то 12</item>
+        <item>Вопрос такой-то 13</item>
+        <item>Вопрос такой-то 14</item>
+        <item>Вопрос такой-то 15</item>
+        <item>Вопрос такой-то 16</item>
+        <item>Вопрос такой-то 17</item>
+        <item>Вопрос такой-то 18</item>
+        <item>Вопрос такой-то 19</item>
+        <item>Вопрос такой-то 20</item>
+    </string-array>
+    <string-array name="ticket_6">
+        <item>Вопрос такой-то 1</item>
+        <item>Вопрос такой-то 2</item>
+        <item>Вопрос такой-то 3</item>
+        <item>Вопрос такой-то 4</item>
+        <item>Вопрос такой-то 5</item>
+        <item>Вопрос такой-то 6</item>
+        <item>Вопрос такой-то 7</item>
+        <item>Вопрос такой-то 8</item>
+        <item>Вопрос такой-то 9</item>
+        <item>Вопрос такой-то 10</item>
+        <item>Вопрос такой-то 11</item>
+        <item>Вопрос такой-то 12</item>
+        <item>Вопрос такой-то 13</item>
+        <item>Вопрос такой-то 14</item>
+        <item>Вопрос такой-то 15</item>
+        <item>Вопрос такой-то 16</item>
+        <item>Вопрос такой-то 17</item>
+        <item>Вопрос такой-то 18</item>
+        <item>Вопрос такой-то 19</item>
+        <item>Вопрос такой-то 20</item>
+    </string-array>
+    <string-array name="ticket_7">
+        <item>Вопрос такой-то 1</item>
+        <item>Вопрос такой-то 2</item>
+        <item>Вопрос такой-то 3</item>
+        <item>Вопрос такой-то 4</item>
+        <item>Вопрос такой-то 5</item>
+        <item>Вопрос такой-то 6</item>
+        <item>Вопрос такой-то 7</item>
+        <item>Вопрос такой-то 8</item>
+        <item>Вопрос такой-то 9</item>
+        <item>Вопрос такой-то 10</item>
+        <item>Вопрос такой-то 11</item>
+        <item>Вопрос такой-то 12</item>
+        <item>Вопрос такой-то 13</item>
+        <item>Вопрос такой-то 14</item>
+        <item>Вопрос такой-то 15</item>
+        <item>Вопрос такой-то 16</item>
+        <item>Вопрос такой-то 17</item>
+        <item>Вопрос такой-то 18</item>
+        <item>Вопрос такой-то 19</item>
+        <item>Вопрос такой-то 20</item>
+    </string-array>
+    <string-array name="ticket_8">
+        <item>Вопрос такой-то 1</item>
+        <item>Вопрос такой-то 2</item>
+        <item>Вопрос такой-то 3</item>
+        <item>Вопрос такой-то 4</item>
+        <item>Вопрос такой-то 5</item>
+        <item>Вопрос такой-то 6</item>
+        <item>Вопрос такой-то 7</item>
+        <item>Вопрос такой-то 8</item>
+        <item>Вопрос такой-то 9</item>
+        <item>Вопрос такой-то 10</item>
+        <item>Вопрос такой-то 11</item>
+        <item>Вопрос такой-то 12</item>
+        <item>Вопрос такой-то 13</item>
+        <item>Вопрос такой-то 14</item>
+        <item>Вопрос такой-то 15</item>
+        <item>Вопрос такой-то 16</item>
+        <item>Вопрос такой-то 17</item>
+        <item>Вопрос такой-то 18</item>
+        <item>Вопрос такой-то 19</item>
+        <item>Вопрос такой-то 20</item>
+    </string-array>
+</resources>
